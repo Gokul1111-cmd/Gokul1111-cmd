@@ -55,7 +55,7 @@
 
 ### 🛠 3D Contribution Graph
 <p align="center">
-  <img src="https://github-readme-3d.vercel.app/?username=Gokul1111-cmd" alt="3D Contribution Graph" />
+  <img src="https://gokul1111-cmd.github.io/3d-model/" alt="3D Contribution Graph" /> 
 </p>
 
 ---
