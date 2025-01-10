@@ -2,7 +2,7 @@
 <h3 align="center">Cybersecurity Enthusiast | Full-Stack Developer | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Passionate+about+Cybersecurity!;Innovating+One+Project+at+a+Time!;Exploring+the+World+of+Tech!;Welcome+to+My+GitHub!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Passionate+about+Cybersecurity!;Innovating+One+Project+at+a+Time!;Exploring+the+World+of+Tech!;Welcome+to+My+GitHub!" alt="Typing SVG" />
 </p>
 
 ---
