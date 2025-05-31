@@ -7,8 +7,9 @@
 <h3 align="center">Cybersecurity Enthusiast 🔐 | Full-Stack Developer 💻 | Problem Solver 🧠</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Cybersecurity+is+not+a+choice,+it's+a+responsibility!;Full+Stack+in+Action+%F0%9F%92%BB;Love+learning%2C+coding%2C+and+breaking+barriers!;Welcome+to+my+interactive+world+on+GitHub!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F75C7E&width=600&lines=Cybersecurity+is+not+a+choice%2C+it's+a+responsibility!;Full+Stack+in+Action+%F0%9F%92%BB;Love+learning+%2C+coding+%2C+breaking+barriers!" alt="Typing SVG" />
 </p>
+
 
 ---
 
