@@ -12,7 +12,6 @@
 
 
 ---
-
 ## 🚀 About Me
 🎓 Engineering Student (CSE)  
 🔐 Cybersecurity fanatic – pen testing, secure design & fuzzing  
