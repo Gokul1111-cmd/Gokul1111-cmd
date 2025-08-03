@@ -66,7 +66,7 @@
 ### 🕹️ My GitHub Snake
 
 <p align="center">
-  <img src="https://github.com/gokul1111-cmd/gokul1111-cmd/blob/output/github-contribution-grid-snake.svg?sanitize=true" alt="GitHub Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/gokul1111-cmd/gokul1111-cmd/main/dist/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
 
 ---
