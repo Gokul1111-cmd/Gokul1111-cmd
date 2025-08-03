@@ -1,39 +1,107 @@
-<h1 align="center">Hi 👋, I'm GOKUL A</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gokul1111-cmd&label=Profile%20views&color=0e75b6&style=flat" alt="gokul1111-cmd" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gokul1111-cmd" alt="gokul1111-cmd" /></a> </p>
-
-- 🔭 I’m currently working on **shopverse a e-commerce website**
-
-- 🌱 I’m currently learning **Full stack java, Devops**
-
-- 👯 I’m looking to collaborate on **any projects**
-
-- 📫 How to reach me **gokulanbalagan1112@gmail.com**
-
-- ⚡ Fun fact **I am INTROVERTED extrovert**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/gokul-anbalagan-431510244" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/gokul-anbalagan-431510244" height="30" width="40" /></a>
-<a href="https://medium.com/@gokulanbalagan1112" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@gokulanbalagan1112" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/gokulanbalagan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="gokulanbalagan" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/gokulanbalagan11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gokulanbalagan11" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/gokul_a-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gokul_a-" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/user/gokulanbaldglm/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="user/gokulanbaldglm/" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzNhc2x4dWh5cWVoMDJ6djJtMDR2OGx6b2Jld3N4aG55d3J1OW55ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VzQ9oK7wY0aT3j6QJb/giphy.gif" width="100%" alt="Cyberpunk Glitch Banner">
+</p>
+<h1 align="center">Hi there 👋, I'm <span style="color:#FF6B81;">Gokul A.</span></h1>
+<p align="center">
+  <a href="https://www.linkedin.com/in/gokul-anbalagan-431510244/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+  </a>
+  <a href="https://github.com/Gokul1111-cmd" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F75C7E&width=600&lines=Cybersecurity+is+not+a+choice%2C+it's+a+responsibility!;Full+Stack+in+Action+%F0%9F%92%BB;Love+learning+%2C+coding+%2C+breaking+barriers!" alt="Typing SVG">
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gokul1111-cmd&show_icons=true&locale=en&layout=compact" alt="gokul1111-cmd" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gokul1111-cmd&show_icons=true&locale=en" alt="gokul1111-cmd" /></p>
+### 👨‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gokul1111-cmd&" alt="gokul1111-cmd" /></p>
+* 🎓 Engineering Student specializing in **Computer Science** with a strong focus on security.
+* 🔐 **Cybersecurity** fanatic, diving deep into pen testing, secure design, and fuzzing to build robust defenses.
+* 🌐 **MERN Stack Developer** with a knack for building dynamic, full-stack applications.
+* 🧠 Consistently curious and exploring the frontiers of **AI**, **ML**, **Blockchain**, and **Security**.
+* 🎯 **Goal-Oriented** and driven by a passion for solving complex problems.
+
+---
+
+### 🛠️ My Tech Stack
+
+<p align="center">
+  <br>
+  <strong>Core Languages:</strong>
+  <br>
+  <img src="https://skillicons.dev/icons?i=python,java,js" alt="Core Languages"/>
+  <br>
+  <br>
+  <strong>Frameworks & Libraries:</strong>
+  <br>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,spring" alt="Frameworks & Libraries"/>
+  <br>
+  <br>
+  <strong>Databases & Tools:</strong>
+  <br>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,vscode" alt="Databases & Tools"/>
+  <br>
+</p>
+
+---
+
+### 🚀 Creative Arsenal: My Projects
+
+* 🛡️ **Malicious URL Detector** — A smart defense system that uses AI to detect and neutralize malicious URLs before they cause harm.
+* 🎵 **Emotion-Based Music Recommender** — A personalized music platform that curates playlists based on a user's emotional state, adapting to how they feel.
+* 🐞 **Advanced Fuzzing Engine** — A powerful tool to systematically uncover software vulnerabilities, helping to find bugs before attackers do.
+* 🌐 **Dynamic Web Portals** — Built a series of responsive, full-stack applications using the **MERN** stack (React, MongoDB, Express, Node.js).
+
+---
+
+### 🏆 Triumphs & Milestones
+
+| 🎖️ **Hackathons & Awards** | 📈 **LeetCode & DSA** |
+|----------------------------|------------------------|
+| 🥇 **SIH Finalist (2023)** | ✅ **400+ Problems Solved** |
+| 🏆 **Tech Quiz 3rd Place** | 🔥 **Strong problem-solver** |
+
+---
+
+### 📊 GitHub Activity & Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gokul1111-cmd&show_icons=true&theme=tokyonight&border_radius=10&count_private=true" width="45%" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gokul1111-cmd&theme=tokyonight&border_radius=10" width="45%" alt="GitHub Streak">
+</p>
+
+---
+
+### 🌐 3D Contribution Graph
+
+<p align="center">
+  <img src="https://github-profile-3d.vercel.app/api/Gokul1111-cmd" alt="Gokul's 3D Contribution Graph" width="100%">
+</p>
+
+---
+
+### 👾 Interactive Fun: My GitHub Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Gokul1111-cmd/Gokul1111-cmd/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" width="100%">
+</p>
+
+---
+
+### 🧠 Just for Fun
+
+* 💡 My favorite way to learn is by visualizing vulnerabilities and then building the patches to fix them.
+* 🎧 My productivity superpower? A perfect mix of Lo-fi beats and caffeine.
+* ✍️ **Motto:** "Secure code isn't just a feature, it's the foundation of great code."
+
+---
+
+### 📈 Profile Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Gokul1111-cmd&label=Visitors&color=0e75b6&style=flat-square" alt="Profile Visitors Count">
+</p>
