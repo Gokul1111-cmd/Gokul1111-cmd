@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Hi there 👋, I'm <span style="color:#2196F3;">Gokul A.</span></h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
@@ -68,7 +66,7 @@
 ### 🕹️ My GitHub Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gokul1111-cmd/gokul1111-cmd/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+  <img src="https://github.com/gokul1111-cmd/gokul1111-cmd/blob/output/github-contribution-grid-snake.svg?sanitize=true" alt="GitHub Contribution Snake" />
 </p>
 
 ---
