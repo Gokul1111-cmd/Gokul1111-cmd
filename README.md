@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2FwaGgwd2d1N2N3MTFjNWlpb21iNmR4N3M0aHN5cWd3eDVkZ3o1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kFfNfR1p39p6Q8vXkM/giphy.gif" alt="Animated Coding Banner" width="100%">
-</div>
+
 
 <h1 align="center">Hi there 👋, I'm <span style="color:#2196F3;">Gokul A.</span></h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
