@@ -1,4 +1,4 @@
-name: generate github-contribution-grid-snake.svg
+name: Generate GitHub Snake
 
 on:
   schedule:
@@ -6,25 +6,22 @@ on:
   workflow_dispatch:
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
-    
     steps:
       - name: Checkout
-        uses: actions/checkout@v2
-      
-      - name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk@v2
+        uses: actions/checkout@v3
+
+      - name: Generate Snake SVG
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            
-      - name: Push to branch
-        uses: EndBug/add-and-commit@v7
+          outputs: dist/github-contribution-grid-snake.svg
+          
+      - name: Push to 'output' branch
+        uses: EndBug/add-and-commit@v9
         with:
           branch: output
-          message: "Generate Snake SVG"
           add: "dist/github-contribution-grid-snake.svg"
+          message: "Generate Snake SVG"
+          token: ${{ secrets.GITHUB_TOKEN }}
